@@ -2,7 +2,7 @@
 
 你需要安装[cyberpunk2020系统](https://github.com/SuperCoon666/cyberpunk2020)
 
-[系统汉化]在这(https://github.com/OrangeKoishi/cyberpunk2020-CN-Core/)
+[系统汉化](https://github.com/OrangeKoishi/cyberpunk2020-CN-Core/)在这
 
 # 使用方法
 
