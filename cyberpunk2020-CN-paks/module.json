@@ -29,7 +29,7 @@
       {
         "id": "babele",
         "type": "module",
-        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/-/raw/master/module/module.json",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
         "compatibility": {}
       }
     ],
