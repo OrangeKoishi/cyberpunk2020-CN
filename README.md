@@ -6,4 +6,4 @@
 
 # 使用方法
 
-下载cyberpunk2020-CN文件夹，放入fvtt下Data/modules,重启fvtt
+下载release，放入fvtt下Data/modules,重启fvtt
