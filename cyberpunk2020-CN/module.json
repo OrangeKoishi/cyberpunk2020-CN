@@ -1,5 +1,5 @@
 {
-  "id": "cyberpunk2020-CN-paks",
+  "id": "cyberpunk2020-CN",
   "title": "Translation:中文[cyberpunk2020(合集包)]",
   "description": "<p>cyberpunk2020的合集包汉化。</p>",
   "authors": [
@@ -16,11 +16,18 @@
       "flags": {}
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13.344"
   },
+  "languages": [
+        {
+            "lang": "cn",
+            "name": "Chinese",
+            "path": "cn.json"
+        }
+  ],
   "esmodules": [
     "register.js"
   ],
@@ -42,8 +49,8 @@
       }
     ]
   },
-  "url": "https://github.com/OrangeKoishi/cyberpunk2020-CN-paks/",
-  "manifest":"https://raw.githubusercontent.com/OrangeKoishi/cyberpunk2020-CN-paks/refs/heads/main/cyberpunk2020-CN-paks/module.json",
-  "download":"https://github.com/OrangeKoishi/cyberpunk2020-CN-paks/releases/download/1.0.1/cyberpunk2020-CN-paks.zip", 
+  "url": "https://github.com/OrangeKoishi/cyberpunk2020-CN",
+  "manifest": "https://raw.githubusercontent.com/OrangeKoishi/cyberpunk2020-CN/refs/heads/main/cyberpunk2020-CN/module.json",
+  "download": "https://github.com/OrangeKoishi/cyberpunk2020-CN/releases/download/1.0.2/cyberpunk2020-CN.zip",
   "flags": {}
 }
