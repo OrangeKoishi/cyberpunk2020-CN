@@ -1,4 +1,4 @@
-const MODULE_ID = 'cyberpunk2020-CN'; // Change this ID!
+const MODULE_ID = 'cyberpunk2020-CN-paks'; // Change this ID!
 
 // No need to change the code below this line, but it’s your module so do it if you want!
 Hooks.once('babele.init', (babele) => {
